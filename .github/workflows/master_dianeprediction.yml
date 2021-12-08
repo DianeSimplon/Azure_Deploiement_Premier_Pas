@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'dianeprediction'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B762A789D73545EF84EFC69C80E289A3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C35F617E943B46DAB6673DCDC1402489 }}
